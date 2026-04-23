@@ -514,3 +514,12 @@ ul { list-style: none; }
   .impact-stat { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.2); width: 100%; }
   .impact-stat:last-child { border-bottom: none; }
 }
+.service-link {
+  color: #ff7a00;
+  font-weight: 600;
+  text-decoration: none;
+}
+.logo-img {
+  height: 80px;
+  width: auto;
+}
