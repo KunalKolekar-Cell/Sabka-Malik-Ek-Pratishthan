@@ -523,3 +523,13 @@ ul { list-style: none; }
   height: 80px;
   width: auto;
 }
+.logo-img {
+  height: 60px;
+  width: auto;
+  display: block;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
